@@ -23,7 +23,7 @@ public class EventFiringTest {
      //   eventDriver.register(myListener);//Listening started
     }
 
-    @Test
+    @Test("regresion")
     public void testEventFiringWebDriver() throws Exception {
  
     	//beforeNavigateTo()
